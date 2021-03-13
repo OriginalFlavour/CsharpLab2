@@ -1,0 +1,13 @@
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.exe
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.runtimeconfig.dev.json
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\bin\Debug\netcoreapp3.1\data and time.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Labs C#\Lab 2\z2\data and time\data and time\obj\Debug\netcoreapp3.1\data and time.genruntimeconfig.cache
