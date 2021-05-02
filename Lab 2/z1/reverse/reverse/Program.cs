@@ -15,12 +15,7 @@ namespace Task2
                 Console.WriteLine(reverse[i]);
             }
 
-
-            Console.ReadKey();
-
-      
-
-            
+            Console.ReadKey();        
         }
     }
 }
